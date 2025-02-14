@@ -86,7 +86,7 @@ def generate_with_early_stopping(messages, model_name, token_threshold=1000, max
         generated_text = pipe(input_text, num_beams = num_beams, max_new_tokens = token_threshold, return_full_text = False, do_sample = True, temperature = temperature, top_p = top_p)[0]['generated_text']
 
         
-        
+        tokencount = tokenizer(generated_text, return_tensors="pt")["input_ids"].shape[1]        
         while (tokencount < min_tokens):
 
             input_text_added = input_text + generated_text + "Wait, let's reconsider " + "<think>"
