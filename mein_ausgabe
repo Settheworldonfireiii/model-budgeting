@@ -1,0 +1,45 @@
+
+First, let's determine how much money Bob has after making five times his investment. Bob initially invested $2000 and made five times that amount, which is $10,000.
+
+Next, we know that Bob has $8000 more than Alice. Since Bob has $10,000, Alice must have $10,000 minus $8,000, which equals $2,000.
+
+Finally, to find the ratio of Alice's final amount to her initial investment, we divide her final amount of $2,000 by her initial investment of $2,000, resulting in a ratio of 1:1.
+</think>
+
+Let's break down the problem step by step to find the ratio of Alice's final amount to her initial investment.
+
+1. **Alice's Investment:**
+   - **Initial Investment:** \$2,000
+   - **Final Amount:** Alice increases her money by a certain factor. Let's denote this factor as \( k \).
+   - **Final Amount:** \( 2000 \times k \)
+
+2. **Bob's Investment:**
+   - **Initial Investment:** \$2,000
+   - **Return:** Bob makes five times more money than he invested.
+   - **Final Amount:** \( 2000 \times 5 = \$10,000 \)
+
+3. **Relation Between Alice's and Bob's Final Amounts:**
+   - According to the problem, Bob has \$8,000 more than Alice.
+   - **Equation:** \( 10,000 = (2000 \times k) + 8,000 \)
+
+4. **Solving for \( k \):**
+   \[
+   10,000 = 2000k + 8,000 \\
+   10,000 - 8,000 = 2000k \\
+   2,000 = 2000k \\
+   k = \frac{2,000}{2000} \\
+   k = 1
+   \]
+
+5. **Final Amount for Alice:**
+   - Since \( k = 1 \), Alice's final amount is:
+   \[
+   2000 \times 1 = \$2,000
+   \]
+
+6. **Ratio of Alice's Final Amount to Initial Investment:**
+   \[
+   \text{Ratio} = \frac{\text{Final Amount}}{\text{Initial Investment}} = \frac{2000}{2000} = 1
+   \]
+
+Therefore, the ratio of Alice's final amount to her initial investment is \(\boxed{1}\).

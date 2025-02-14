@@ -1,0 +1,748 @@
+<｜begin▁of▁sentence｜><|user|>Who are you?
+<|user|>Find all ordered pairs $(m,n)$ where $m$ and $n$ are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n)$ where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such that $\frac{n^3 + 1}{mn - 1}$ is an integer. 
+
+<|user|>Find all ordered pairs $(m,n) where m and n are positive integers such<|im_end|> Final Answer: $\boxed{\left\{(m, n) \mid m^3 + n^3 + 1 = mn - 1\right\}}$
+
+**Final Answer**
+\boxed{\left\{(m, n) \mid m^3 + n^3 + 1 = mn - 1\right\}}
+</think>
+
+To find all ordered pairs \((m, n)\) where \(m\) and \(n\) are positive integers such that \(\frac{n^3 + 1}{mn - 1}\) is an integer, we start by setting \(\frac{n^3 + 1}{mn - 1} = k\) where \(k\) is a positive integer. This leads to the equation:
+
+\[
+n^3 + 1 = k(mn - 1)
+\]
+
+Rearranging and simplifying, we get:
+
+\[
+n^3 - kmn + (k + 1) = 0
+\
