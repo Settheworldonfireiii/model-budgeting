@@ -89,7 +89,7 @@ def generate_with_early_stopping(messages, model_name, token_threshold=1000, max
         
         while (tokencount < min_tokens):
 
-            input_text_added = input_text + generated_text + "Wait " + "<think>"
+            input_text_added = input_text + generated_text + "Wait, let's reconsider " + "<think>"
            
            
             generated_text += pipe(input_text_added, num_beams = 2, max_new_tokens = token_threshold, return_full_text = False, do_sample = True, temperature = 0.4, top_p = 0.9)[0]['generated_text']
