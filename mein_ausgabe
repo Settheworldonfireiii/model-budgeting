@@ -1,0 +1,72 @@
+<｜begin▁of▁sentence｜><｜begin▁of▁sentence｜><｜User｜>Alice and Bob are each given $2000 to invest. Alice puts all of her money in the stock market and increases her money by a certain factor. Bob invests in real estate and makes five times more money than he invested. Bob has $8000 more than Alice now. What is the ratio of Alice&apos;s final amount to her initial investment?<｜Assistant｜><think>
+To determine the ratio of Alice's final amount to her initial investment, let's break down the problem step by step.
+
+First, Alice invests all her $2000 in the stock market and increases her money by a certain factor. Let's denote this factor as \( x \). Therefore, Alice's final amount is \( 2000 \times x \).
+
+Bob, on the other hand, invests in real estate and makes five times more money than his initial investment. Since Bob also started with $2000, his final amount is \( 2000 \times 5 = 10000 \).
+
+According to the problem, Bob has $8000 more than Alice after their investments. This gives us the equation:
+\[ 10000 = 2000x + 8000 \]
+
+Solving for \( x \):
+\[ 2000x = 10000 - 8000 \]
+\[ 2000x = 2000 \]
+\[ x = 1 \]
+
+This means Alice's final amount is \( 2000 \times 1 = 2000 \). Therefore, the ratio of Alice's final amount to her initial investment is:
+\[ \frac{2000}{2000} = 1 \]
+</think>
+
+Let's solve the problem step by step.
+
+**Given:**
+- Alice invests \$2000 in the stock market and increases her money by a factor of \( x \).
+- Bob invests \$2000 in real estate and makes five times more money than he invested.
+- Bob has \$8000 more than Alice after their investments.
+
+**Let's denote:**
+- Alice's final amount as \( A \).
+- Bob's final amount as \( B \).
+
+**Step 1: Express Alice's and Bob's final amounts in terms of \( x \).**
+
+- **Alice:**
+  - Initial investment: \$2000
+  - Increase factor: \( x \)
+  - Final amount: \( A = 2000 \times x \)
+
+- **Bob:**
+  - Initial investment: \$2000
+  - Makes five times more money: \( 5 \times 2000 = 10000 \)
+  - Final amount: \( B = 10000 \)
+
+**Step 2: Set up the equation based on the given information.**
+
+According to the problem, Bob has \$8000 more than Alice:
+\[
+B = A + 8000
+\]
+Substituting the expressions for \( A \) and \( B \):
+\[
+10000 = 2000x + 8000
+\]
+
+**Step 3: Solve for \( x \).**
+
+\[
+2000x = 10000 - 8000
+\]
+\[
+2000x = 2000
+\]
+\[
+x = \frac{2000}{2000} = 1
+\]
+
+**Step 4: Calculate Alice's final amount.**
+
+\[
+A = 2000 \times x = 2000 \times 1 = 2000
+\]
+
+<|im_end|> Final Answer: \boxed{1}

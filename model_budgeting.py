@@ -26,7 +26,7 @@ class TokenThresholdStopping(StoppingCriteria):
             return True
         return False
 
-def generate_with_early_stopping(messages, model_name, token_threshold=1000, max_final_tokens=200, early_stopping = True, longer_thinking = False, min_tokens = 0):
+def generate_with_early_stopping(messages, model_name, token_threshold=1000, max_final_tokens=200, early_stopping = True, longer_thinking = False, min_tokens = 0, temperature = 0.2, top_p = 0.9, num_beams = 2):
     """
     Generate text with early stopping and continuation after threshold.
     
@@ -57,9 +57,9 @@ def generate_with_early_stopping(messages, model_name, token_threshold=1000, max
             "max_new_tokens": token_threshold,
             "return_full_text": False,
             "do_sample": True,
-            "temperature": 0.4,
-            "top_p": 0.9,
-            "num_beams": 2,
+            "temperature": temperature,
+            "top_p": top_p,
+            "num_beams": num_beams,
             "stopping_criteria": [stopping_criteria]
         }
         initial_output = pipe(input_text, **generation_config)
@@ -70,9 +70,9 @@ def generate_with_early_stopping(messages, model_name, token_threshold=1000, max
                 "max_new_tokens": max_final_tokens,
                 "return_full_text": False,
                 "do_sample": True,
-                "temperature": 0.4,
-                "top_p": 0.9,
-                "num_beams": 2
+                "temperature": temperature,
+                "top_p": top_p,
+                "num_beams": num_beams
             }
         
             final_output = pipe(new_prompt, **final_config)
@@ -81,9 +81,9 @@ def generate_with_early_stopping(messages, model_name, token_threshold=1000, max
            
             generated_text = initial_output[0]['generated_text']
     elif  (not longer_thinking and not early_stopping):
-        generated_text = pipe(input_text, num_beams = 2, max_new_tokens = token_threshold, return_full_text = False, do_sample = True, temperature = 0.4, top_p = 0.9)[0]['generated_text']
+        generated_text = pipe(input_text, num_beams = num_beams, max_new_tokens = token_threshold, return_full_text = False, do_sample = True, temperature = temperature, top_p = top_p)[0]['generated_text']
     elif longer_thinking:
-        generated_text = pipe(input_text, num_beams = 2, max_new_tokens = token_threshold, return_full_text = False, do_sample = True, temperature = 0.4, top_p = 0.9)[0]['generated_text']
+        generated_text = pipe(input_text, num_beams = num_beams, max_new_tokens = token_threshold, return_full_text = False, do_sample = True, temperature = temperature, top_p = top_p)[0]['generated_text']
 
         
         
@@ -112,57 +112,65 @@ def main():
     parser.add_argument('--max_tokens',  help="token threshold, or maximal amount of tokens that we allow before we interrupt the model and force it to give the answer", type= int)
     parser.add_argument('--max_final_tokens',  help="maximum amount of tokens the model is allowed to output after its thinking was interrupted and it is forced to give a final answer", type= int)
     parser.add_argument('--output_filename',  help="output_filename", type= str)
+    parser.add_argument('--temperature',  help="generation temperature", type= float)
+    parser.add_argument('--top_p',  help="share of the words the model considers when generating stuff", type= float)
+    parser.add_argument('--num_beams',  help="the default method is beam search. number of beams to keep at the nth step when proceeding to n+1th step", type= int)
+
+
+
 
     args=parser.parse_args()
 
 
 
-    model_name = args.model_name
-   
+    
     messages = "<｜begin▁of▁sentence｜><｜User｜>" + args.prompt+"<｜Assistant｜><think>"
 
     mode = args.mode
     if mode == "extend-thinking":
-        min_tokens = args.min_tokens
-        token_threshold = args.max_tokens
-        max_final_tokens = args.max_final_tokens
         generated_text, token_count = generate_with_early_stopping(
             messages=messages,
-            model_name=model_name,
-            token_threshold=token_threshold,
-            max_final_tokens=max_final_tokens,
+            model_name=args.model_name,
+            token_threshold= args.max_tokens,
+            max_final_tokens=args.max_final_tokens,
             early_stopping = False,
             longer_thinking = True,
-            min_tokens = min_tokens
+            min_tokens = args.min_tokens,
+            temperature = args.temperature,
+            top_p = args.top_p,
+            num_beams = args.num_beams
+
         )
     elif mode == "plain":
-        min_tokens = args.min_tokens
-        token_threshold = args.max_tokens
-        max_final_tokens = args.max_final_tokens
 
         generated_text, token_count = generate_with_early_stopping(
             messages=messages,
-            model_name=model_name,
-            token_threshold=token_threshold,
-            max_final_tokens=max_final_tokens,
+            model_name=args.model_name,
+            token_threshold=args.max_tokens,
+            max_final_tokens=args.max_final_tokens,
             early_stopping = False,
             longer_thinking = False,
-            min_tokens = min_tokens
+            min_tokens = args.min_tokens,
+            temperature = args.temperature,
+            top_p = args.top_p,
+            num_beams = args.num_beams
+
         )
 
     elif mode == "limit-thinking":
-        min_tokens = args.min_tokens
-        token_threshold = args.max_tokens
-        max_final_tokens = args.max_final_tokens
 
         generated_text, token_count = generate_with_early_stopping(
             messages=messages,
-            model_name=model_name,
-            token_threshold=token_threshold,
-            max_final_tokens=max_final_tokens,
+            model_name=args.model_name,
+            token_threshold=args.max_tokens,
+            max_final_tokens=args.max_final_tokens,
             early_stopping = True,
             longer_thinking = False,
-            min_tokens = min_tokens
+            min_tokens = args.min_tokens,
+            temperature = args.temperature,
+            top_p = args.top_p,
+            num_beams = args.num_beams
+
         )
 
 
