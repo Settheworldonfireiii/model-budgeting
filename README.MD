@@ -3,12 +3,7 @@ How to use this script?
 An example:
 
 ```
-python model_budgeting.py --model_name deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B --prompt "Alice and Bob are each given \$2000 to invest.
- Alice puts all of her money in the stock market and increases her money by a certain factor.
- Bob invests in real estate and makes five times more money than he invested. Bob has \$8000 more than Alice now. 
-What is the ratio of Alice&apos;s final amount to her initial investment?" 
---mode limit-thinking --min_tokens 300 --max_tokens 800 --max_final_tokens 200 
---output_filename mein_ausgabe --temperature 0.2 --top_p 0.9 --num_beams 3
+python model_budgeting.py --model_name deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B     --prompt "Alice and Bob are each given \$2000 to invest. Alice puts all of her money <br> in the stock market and increases her money by a certain factor. <br>Bob invests in real estate and makes five times more money than he invested. Bob has \$8000 more than Alice now. <br> What is the ratio of Alice&apos;s final amount to her initial investment?"     --mode limit-thinking --min_tokens 300 --max_tokens 800 --max_final_tokens 200     --output_filename mein_ausgabe --temperature 0.2 --top_p 0.9 --num_beams 3
 ```
 
 
