@@ -93,6 +93,7 @@ def generate_with_early_stopping(messages, model_name, token_threshold=1000, max
            
            
             generated_text += pipe(input_text_added, num_beams = 2, max_new_tokens = token_threshold, return_full_text = False, do_sample = True, temperature = 0.4, top_p = 0.9)[0]['generated_text']
+            tokencount = tokenizer(generated_text, return_tensors="pt")["input_ids"].shape[1] 
         input_text_added =input_text + generated_text + "<|im_end|>" + " Final Answer:"
         generated_text += pipe(input_text_added, num_beams = 2, max_new_tokens = max_final_tokens, return_full_text = False, do_sample = True, temperature = 0.4, top_p = 0.9)[0]['generated_text']
         tokencount = tokenizer(generated_text, return_tensors="pt")["input_ids"].shape[1]
