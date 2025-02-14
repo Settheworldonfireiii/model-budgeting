@@ -6,7 +6,7 @@ python model_budgeting.py --model_name deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B
 
 model_name -- model name. Can be any version of distilled R1 to Qwen
 
-prompt -- prompt. The task you want it to solve. Put necessarily in quotes. Later, for larger scale experiments, I will make it optional so that one can choose whether to insert prompt like this, or load some dataset
+prompt -- prompt. The task you want it to solve. Put necessarily in quotes. Later, for larger scale experiments, I will make it optional so that one can choose whether to insert prompt like this, or load some dataset. Later, I will make this argument optional and enable an option of loading an entire dataset to evaluate the performance of interruption or extension on the entire dataset
 
 mode -- mode of interference with model's thinking. limit-thinking is for early interruption, plain is for normal thinking whatever model nees to think, extend-thinking is for forcing the model to think for at least n tokens
 
