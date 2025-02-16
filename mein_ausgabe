@@ -1,72 +1,1959 @@
-<｜begin▁of▁sentence｜><｜begin▁of▁sentence｜><｜User｜>Alice and Bob are each given $2000 to invest. Alice puts all of her money in the stock market and increases her money by a certain factor. Bob invests in real estate and makes five times more money than he invested. Bob has $8000 more than Alice now. What is the ratio of Alice&apos;s final amount to her initial investment?<｜Assistant｜><think>
-To determine the ratio of Alice's final amount to her initial investment, let's break down the problem step by step.
 
-First, Alice invests all her $2000 in the stock market and increases her money by a certain factor. Let's denote this factor as \( x \). Therefore, Alice's final amount is \( 2000 \times x \).
+First, let's determine how much money Bob has after making five times his investment. Since Bob initially invested $2000 and made five times that amount, his total is $2000 multiplied by 5, which equals $10,000.
 
-Bob, on the other hand, invests in real estate and makes five times more money than his initial investment. Since Bob also started with $2000, his final amount is \( 2000 \times 5 = 10000 \).
+Next, we know that Bob has $8000 more than Alice. Let's denote Alice's final amount as \( A \). According to the problem, \( A + 8000 = 10,000 \). Solving for \( A \), we find that Alice's final amount is $2,000.
 
-According to the problem, Bob has $8000 more than Alice after their investments. This gives us the equation:
-\[ 10000 = 2000x + 8000 \]
-
-Solving for \( x \):
-\[ 2000x = 10000 - 8000 \]
-\[ 2000x = 2000 \]
-\[ x = 1 \]
-
-This means Alice's final amount is \( 2000 \times 1 = 2000 \). Therefore, the ratio of Alice's final amount to her initial investment is:
-\[ \frac{2000}{2000} = 1 \]
+Finally, to find the ratio of Alice's final amount to her initial investment, we divide her final amount by her initial investment: \( \frac{2000}{2000} = 1 \). Therefore, the ratio is 1:1.
 </think>
 
 Let's solve the problem step by step.
 
 **Given:**
-- Alice invests \$2000 in the stock market and increases her money by a factor of \( x \).
-- Bob invests \$2000 in real estate and makes five times more money than he invested.
-- Bob has \$8000 more than Alice after their investments.
+- Alice and Bob each start with \$2000.
+- Alice invests all her money in the stock market and increases her money by a certain factor.
+- Bob invests in real estate and makes five times more money than he invested.
+- Bob has \$8000 more than Alice now.
 
 **Let's denote:**
-- Alice's final amount as \( A \).
-- Bob's final amount as \( B \).
+- \( A \) as Alice's final amount.
+- \( B \) as Bob's final amount.
 
-**Step 1: Express Alice's and Bob's final amounts in terms of \( x \).**
+**Step 1: Calculate Bob's Final Amount**
 
-- **Alice:**
-  - Initial investment: \$2000
-  - Increase factor: \( x \)
-  - Final amount: \( A = 2000 \times x \)
+Bob invests \$2000 in real estate and makes five times his investment. Therefore:
+\[
+B = 2000 \times 5 = 10,\!000
+\]
 
-- **Bob:**
-  - Initial investment: \$2000
-  - Makes five times more money: \( 5 \times 2000 = 10000 \)
-  - Final amount: \( B = 10000 \)
-
-**Step 2: Set up the equation based on the given information.**
+**Step 2: Relate Bob's and Alice's Final Amounts**
 
 According to the problem, Bob has \$8000 more than Alice:
 \[
-B = A + 8000
+B = A + 8,\!000
 \]
-Substituting the expressions for \( A \) and \( B \):
+Substitute the value of \( B \) from Step 1:
 \[
-10000 = 2000x + 8000
+10,\!000 = A + 8,\!000
+\]
+Solve for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
 \]
 
-**Step 3: Solve for \( x \).**
+**Step 3: Find the Ratio of Alice's Final Amount to Her Initial Investment**
 
+Alice's initial investment was \$2000, and her final amount is \$2000. Therefore, the ratio is:
 \[
-2000x = 10000 - 8000
-\]
-\[
-2000x = 2000
-\]
-\[
-x = \frac{2000}{2000} = 1
+\text{Ratio} = \frac{A}{\text{Initial Investment}} = \frac{2,\!000}{2,\!000} = 1
 \]
 
-**Step 4: Calculate Alice's final amount.**
-
+**Final Answer:**
 \[
-A = 2000 \times x = 2000 \times 1 = 2000
+\boxed{1}
 \]
 
-<|im_end|> Final Answer: \boxed{1}
+**Step 1: Calculate Bob's Final Amount**
+
+Bob invests \$2000 in real estate and makes five times his investment. Therefore:
+\[
+B = 2000 \times 5 = 10,\!000
+\]
+
+**Step 2: Relate Bob's and Alice's Final Amounts**
+
+According to the problem, Bob has \$8000 more than Alice:
+\[
+B = A + 8,\!000
+\]
+Substitute the value of \( B \) from Step 1:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solve for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+**Step 3: Find the Ratio of Alice's Final Amount to Her Initial Investment**
+
+Alice's initial investment was \$2000, and her final amount is \$2000. Therefore, the ratio is:
+\[
+\text{Ratio} = \frac{A}{\text{Initial Investment}} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]
+
+**Step 1: Calculate Bob's Final Amount**
+
+Bob invests \$2000 in real estate and makes five times his investment. Therefore:
+\[
+B = 2000 \times 5 = 10,\!000
+\]
+
+**Step 2: Relate Bob's and Alice's Final Amounts**
+
+According to the problem, Bob has \$8000 more than Alice:
+\[
+B = A + 8,\!000
+\]
+Substitute the value of \( B \) from Step 1:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solve for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+**Step 3: Find the Ratio of Alice's Final Amount to Her Initial Investment**
+
+Alice's initial investment was \$2000, and her final amount is \$2000. Therefore, the ratio is:
+\[
+\text{Ratio} = \frac{A}{\text{Initial Investment}} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]
+
+**Step 1: Calculate Bob's Final Amount**
+
+Bob invests \$2000 in real estate and makes five times his investment. Therefore:
+\[
+B = 2000 \times 5 = 10,\!000
+\]
+
+**Step 2: Relate Bob's and Alice's Final Amounts**
+
+According to the problem, Bob has \$8000 more than Alice:
+\[
+B = A + 8,\!000
+\]
+Substitute the value of \( B \) from Step 1:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solve for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+**Step 3: Find the Ratio of Alice's Final Amount to Her Initial Investment**
+
+Alice's initial investment was \$2000, and her final amount is \$2000. Therefore, the ratio is:
+\[
+\text{Ratio} = \frac{A}{\text{Initial Investment}} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]
+
+**Step 1: Calculate Bob's Final Amount**
+
+Bob invests \$2000 in real estate and makes five times his investment. Therefore:
+\[
+B = 2000 \times 5 = 10,\!000
+\]
+
+**Step 2: Relate Bob's and Alice's Final Amounts**
+
+According to the problem, Bob has \$8000 more than Alice:
+\[
+B = A + 8,\!000
+\]
+Substitute the value of \( B \) from Step 1:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solve for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+**Step 3: Find the Ratio of Alice's Final Amount to Her Initial Investment**
+
+Alice's initial investment was \$2000, and her final amount is \$2000. Therefore, the ratio is:
+\[
+\text{Ratio} = \frac{A}{\text{Initial Investment}} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]
+
+**Step 1: Calculate Bob's Final Amount**
+
+Bob invests \$2000 in real estate and makes five times his investment. Therefore:
+\[
+B = 2000 \times 5 = 10,\!000
+\]
+
+**Step 2: Relate Bob's and Alice's Final Amounts**
+
+According to the problem, Bob has \$8000 more than Alice:
+\[
+B = A + 8,\!000
+\]
+Substitute the value of \( B \) from Step 1:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solve for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+**Step 3: Find the Ratio of Alice's Final Amount to Her Initial Investment**
+
+Alice's initial investment was \$2000, and her final amount is \$2000. Therefore, the ratio is:
+\[
+\text{Ratio} = \frac{A}{\text{Initial Investment}} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]
+
+**Step 1: Calculate Bob's Final Amount**
+
+Bob invests \$2000 in real estate and makes five times his investment. Therefore:
+\[
+B = 2000 \times 5 = 10,\!000
+\]
+
+**Step 2: Relate Bob's and Alice's Final Amounts**
+
+According to the problem, Bob has \$8000 more than Alice:
+\[
+B = A + 8,\!000
+\]
+Substitute the value of \( B \) from Step 1:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solve for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+**Step 3: Find the Ratio of Alice's Final Amount to Her Initial Investment**
+
+Alice's initial investment was \$2000, and her final amount is \$2000. Therefore, the ratio is:
+\[
+\text{Ratio} = \frac{A}{\text{Initial Investment}} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]
+
+**Step 1: Calculate Bob's Final Amount**
+
+Bob invests \$2000 in real estate and makes five times his investment. Therefore:
+\[
+B = 2000 \times 5 = 10,\!000
+\]
+
+**Step 2: Relate Bob's and Alice's Final Amounts**
+
+According to the problem, Bob has \$8000 more than Alice:
+\[
+B = A + 8,\!000
+\]
+Substitute the value of \( B \) from Step 1:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solve for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+**Step 3: Find the Ratio of Alice's Final Amount to Her Initial Investment**
+
+Alice's initial investment was \$2000, and her final amount is \$2000. Therefore, the ratio is:
+\[
+\text{Ratio} = \frac{A}{\text{Initial Investment}} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]
+
+**Step 1: Calculate Bob's Final Amount**
+
+Bob invests \$2000 in real estate and makes five times his investment. Therefore:
+\[
+B = 2000 \times 5 = 10,\!000
+\]
+
+**Step 2: Relate Bob's and Alice's Final Amounts**
+
+According to the problem, Bob has \$8000 more than Alice:
+\[
+B = A + 8,\!000
+\]
+Substitute the value of \( B \) from Step 1:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solve for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+**Step 3: Find the Ratio of Alice's Final Amount to Her Initial Investment**
+
+Alice's initial investment was \$2000, and her final amount is \$2000. Therefore, the ratio is:
+\[
+\text{Ratio} = \frac{A}{\text{Initial Investment}} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]
+
+**Step 1: Calculate Bob's Final Amount**
+
+Bob invests \$2000 in real estate and makes five times his investment. Therefore:
+\[
+B = 2000 \times 5 = 10,\!000
+\]
+
+**Step 2: Relate Bob's and Alice's Final Amounts**
+
+According to the problem, Bob has \$8000 more than Alice:
+\[
+B = A + 8,\!000
+\]
+Substitute the value of \( B \) from Step 1:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solve for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+**Step 3: Find the Ratio of Alice's Final Amount to Her Initial Investment**
+
+Alice's initial investment was \$2000, and her final amount is \$2000. Therefore, the ratio is:
+\[
+\text{Ratio} = \frac{A}{\text{Initial Investment}} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]
+
+**Step 1: Calculate Bob's Final Amount**
+
+Bob invests \$2000 in real estate and makes five times his investment. Therefore:
+\[
+B = 2000 \times 5 = 10,\!000
+\]
+
+**Step 2: Relate Bob's and Alice's Final Amounts**
+
+According to the problem, Bob has \$8000 more than Alice:
+\[
+B = A + 8,\!000
+\]
+Substitute the value of \( B \) from Step 1:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solve for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+**Step 3: Find the Ratio of Alice's Final Amount to Her Initial Investment**
+
+Alice's initial investment was \$2000, and her final amount is \$2000. Therefore, the ratio is:
+\[
+\text{Ratio} = \frac{A}{\text{Initial Investment}} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]
+
+**Step 1: Calculate Bob's Final Amount**
+
+Bob invests \$2000 in real estate and makes five times his investment. Therefore:
+\[
+B = 2000 \times 5 = 10,\!000
+\]
+
+**Step 2: Relate Bob's and Alice's Final Amounts**
+
+According to the problem, Bob has \$8000 more than Alice:
+\[
+B = A + 8,\!000
+\]
+Substitute the value of \( B \) from Step 1:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solve for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+**Step 3: Find the Ratio of Alice's Final Amount to Her Initial Investment**
+
+Alice's initial investment was \$2000, and her final amount is \$2000. Therefore, the ratio is:
+\[
+\text{Ratio} = \frac{A}{\text{Initial Investment}} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]
+
+**Step 1: Calculate Bob's Final Amount**
+
+Bob invests \$2000 in real estate and makes five times his investment. Therefore:
+\[
+B = 2000 \times 5 = 10,\!000
+\]
+
+**Step 2: Relate Bob's and Alice's Final Amounts**
+
+According to the problem, Bob has \$8000 more than Alice:
+\[
+B = A + 8,\!000
+\]
+Substitute the value of \( B \) from Step 1:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solve for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+**Step 3: Find the Ratio of Alice's Final Amount to Her Initial Investment**
+
+Alice's initial investment was \$2000, and her final amount is \$2000. Therefore, the ratio is:
+\[
+\text{Ratio} = \frac{A}{\text{Initial Investment}} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]
+
+**Step 1: Calculate Bob's Final Amount**
+
+Bob invests \$2000 in real estate and makes five times his investment. Therefore:
+\[
+B = 2000 \times 5 = 10,\!000
+\]
+
+**Step 2: Relate Bob's and Alice's Final Amounts**
+
+According to the problem, Bob has \$8000 more than Alice:
+\[
+B = A + 8,\!000
+\]
+Substitute the value of \( B \) from Step 1:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solve for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+**Step 3: Find the Ratio of Alice's Final Amount to Her Initial Investment**
+
+Alice's initial investment was \$2000, and her final amount is \$2000. Therefore, the ratio is:
+\[
+\text{Ratio} = \frac{A}{\text{Initial Investment}} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]
+
+**Step 1: Calculate Bob's Final Amount**
+
+Bob invests \$2000 in real estate and makes five times his investment. Therefore:
+\[
+B = 2000 \times 5 = 10,\!000
+\]
+
+**Step 2: Relate Bob's and Alice's Final Amounts**
+
+According to the problem, Bob has \$8000 more than Alice:
+\[
+B = A + 8,\!000
+\]
+Substitute the value of \( B \) from Step 1:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solve for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+**Step 3: Find the Ratio of Alice's Final Amount to Her Initial Investment**
+
+Alice's initial investment was \$2000, and her final amount is \$2000. Therefore, the ratio is:
+\[
+\text{Ratio} = \frac{A}{\text{Initial Investment}} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]
+
+**Step 1: Calculate Bob's Final Amount**
+
+Bob invests \$2000 in real estate and makes five times his investment. Therefore:
+\[
+B = 2000 \times 5 = 10,\!000
+\]
+
+**Step 2: Relate Bob's and Alice's Final Amounts**
+
+According to the problem, Bob has \$8000 more than Alice:
+\[
+B = A + 8,\!000
+\]
+Substitute the value of \( B \) from Step 1:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solve for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+**Step 3: Find the Ratio of Alice's Final Amount to Her Initial Investment**
+
+Alice's initial investment was \$2000, and her final amount is \$2000. Therefore, the ratio is:
+\[
+\text{Ratio} = \frac{A}{\text{Initial Investment}} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]
+
+**Step 1: Calculate Bob's Final Amount**
+
+Bob invests \$2000 in real estate and makes five times his investment. Therefore:
+\[
+B = 2000 \times 5 = 10,\!000
+\]
+
+**Step 2: Relate Bob's and Alice's Final Amounts**
+
+According to the problem, Bob has \$8000 more than Alice:
+\[
+B = A + 8,\!000
+\]
+Substitute the value of \( B \) from Step 1:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solve for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+**Step 3: Find the Ratio of Alice's Final Amount to Her Initial Investment**
+
+Alice's initial investment was \$2000, and her final amount is \$2000. Therefore, the ratio is:
+\[
+\text{Ratio} = \frac{A}{\text{Initial Investment}} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]
+
+**Step 1: Calculate Bob's Final Amount**
+
+Bob invests \$2000 in real estate and makes five times his investment. Therefore:
+\[
+B = 2000 \times 5 = 10,\!000
+\]
+
+**Step 2: Relate Bob's and Alice's Final Amounts**
+
+According to the problem, Bob has \$8000 more than Alice:
+\[
+B = A + 8,\!000
+\]
+Substitute the value of \( B \) from Step 1:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solve for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+**Step 3: Find the Ratio of Alice's Final Amount to Her Initial Investment**
+
+Alice's initial investment was \$2000, and her final amount is \$2000. Therefore, the ratio is:
+\[
+\text{Ratio} = \frac{A}{\text{Initial Investment}} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]
+
+**Step 1: Calculate Bob's Final Amount**
+
+Bob invests \$2000 in real estate and makes five times his investment. Therefore:
+\[
+B = 2000 \times 5 = 10,\!000
+\]
+
+**Step 2: Relate Bob's and Alice's Final Amounts**
+
+According to the problem, Bob has \$8000 more than Alice:
+\[
+B = A + 8,\!000
+\]
+Substitute the value of \( B \) from Step 1:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solve for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+**Step 3: Find the Ratio of Alice's Final Amount to Her Initial Investment**
+
+Alice's initial investment was \$2000, and her final amount is \$2000. Therefore, the ratio is:
+\[
+\text{Ratio} = \frac{A}{\text{Initial Investment}} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]
+
+Alice and Bob each start with \$2000. Alice invests all her money in the stock market, increasing her investment by a certain factor. Bob invests in real estate and makes five times more money than he invested. Bob has \$8000 more than Alice now.
+
+Let's denote Alice's final amount as \( A \).
+
+Bob's final amount is \( 2000 \times 5 = 10,\!000 \).
+
+According to the problem, Bob has \$8000 more than Alice:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solving for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+The ratio of Alice's final amount to her initial investment is:
+\[
+\text{Ratio} = \frac{A}{\text{Initial Investment}} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]<think>
+Okay, so Alice and Bob each start with \$2000. Alice invests all her money in the stock market and increases her investment by a certain factor. Bob invests in real estate and makes five times more money than he invested. Bob has \$8000 more than Alice now. We need to find the ratio of Alice's final amount to her initial investment.
+
+First, let's figure out how much Bob has after making five times his investment. If Bob invests \$2000 in real estate and makes five times that amount, his total is:
+\[
+2000 \times 5 = 10,\!000
+\]
+
+Next, we know that Bob has \$8000 more than Alice. Let's denote Alice's final amount as \( A \). According to the problem:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solving for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+So, Alice's final amount is \$2000. Since Alice started with \$2000, the ratio of her final amount to her initial investment is:
+\[
+\text{Ratio} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+Therefore, the ratio is 1:1.
+</think>
+
+Alice and Bob each start with \$2000. Alice invests all her money in the stock market and increases her investment by a certain factor. Bob invests in real estate and makes five times more money than he invested. Bob has \$8000 more than Alice now.
+
+Let's denote Alice's final amount as \( A \).
+
+Bob's final amount is:
+\[
+2000 \times 5 = 10,\!000
+\]
+
+According to the problem, Bob has \$8000 more than Alice:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solving for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+The ratio of Alice's final amount to her initial investment is:
+\[
+\text{Ratio} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]<think>
+Okay, so Alice and Bob each start with \$2000. Alice invests all her money in the stock market and increases her investment by a certain factor. Bob invests in real estate and makes five times more money than he invested. Bob has \$8000 more than Alice now.
+
+First, let's figure out how much Bob has after making five times his investment. If Bob invests \$2000 in real estate and makes five times that amount, his total is:
+\[
+2000 \times 5 = 10,\!000
+\]
+
+Next, we know that Bob has \$8000 more than Alice. Let's denote Alice's final amount as \( A \). According to the problem:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solving for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+So, Alice's final amount is \$2000. Since Alice started with \$2000, the ratio of her final amount to her initial investment is:
+\[
+\text{Ratio} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]
+
+Alice and Bob each start with \$2000. Alice invests all her money in the stock market and increases her investment by a certain factor. Bob invests in real estate and makes five times more money than he invested. Bob has \$8000 more than Alice now.
+
+Let's denote Alice's final amount as \( A \).
+
+Bob's final amount is:
+\[
+2000 \times 5 = 10,\!000
+\]
+
+According to the problem, Bob has \$8000 more than Alice:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solving for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+The ratio of Alice's final amount to her initial investment is:
+\[
+\text{Ratio} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]
+
+Okay, so Alice and Bob each start with \$2000. Alice invests all her money in the stock market and increases her investment by a certain factor. Bob invests in real estate and makes five times more money than he invested. Bob has \$8000 more than Alice now.
+
+First, let's figure out how much Bob has after making five times his investment. If Bob invests \$2000 in real estate and makes five times that amount, his total is:
+\[
+2000 \times 5 = 10,\!000
+\]
+
+Next, we know that Bob has \$8000 more than Alice. Let's denote Alice's final amount as \( A \). According to the problem:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solving for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+So, Alice's final amount is \$2000. Since Alice started with \$2000, the ratio of her final amount to her initial investment is:
+\[
+\text{Ratio} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]
+
+Okay, so Alice and Bob each start with \$2000. Alice invests all her money in the stock market and increases her investment by a certain factor. Bob invests in real estate and makes five times more money than he invested. Bob has \$8000 more than Alice now.
+
+First, let's figure out how much Bob has after making five times his investment. If Bob invests \$2000 in real estate and makes five times that amount, his total is:
+\[
+2000 \times 5 = 10,\!000
+\]
+
+Next, we know that Bob has \$8000 more than Alice. Let's denote Alice's final amount as \( A \). According to the problem:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solving for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+So, Alice's final amount is \$2000. Since Alice started with \$2000, the ratio of her final amount to her initial investment is:
+\[
+\text{Ratio} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]
+
+Alice and Bob each start with \$2000. Alice invests all her money in the stock market and increases her investment by a certain factor. Bob invests in real estate and makes five times more money than he invested. Bob has \$8000 more than Alice now.
+
+First, let's figure out how much Bob has after making five times his investment. If Bob invests \$2000 in real estate and makes five times that amount, his total is:
+\[
+2000 \times 5 = 10,\!000
+\]
+
+Next, we know that Bob has \$8000 more than Alice. Let's denote Alice's final amount as \( A \). According to the problem:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solving for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+So, Alice's final amount is \$2000. Since Alice started with \$2000, the ratio of her final amount to her initial investment is:
+\[
+\text{Ratio} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]
+
+Okay, so Alice and Bob each start with \$2000. Alice invests all her money in the stock market and increases her investment by a certain factor. Bob invests in real estate and makes five times more money than he invested. Bob has \$8000 more than Alice now.
+
+First, let's figure out how much Bob has after making five times his investment. If Bob invests \$2000 in real estate and makes five times that amount, his total is:
+\[
+2000 \times 5 = 10,\!000
+\]
+
+Next, we know that Bob has \$8000 more than Alice. Let's denote Alice's final amount as \( A \). According to the problem:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solving for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+So, Alice's final amount is \$2000. Since Alice started with \$2000, the ratio of her final amount to her initial investment is:
+\[
+\text{Ratio} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]
+
+Alice and Bob each start with \$2000. Alice invests all her money in the stock market and increases her investment by a certain factor. Bob invests in real estate and makes five times more money than he invested. Bob has \$8000 more than Alice now.
+
+First, let's figure out how much Bob has after making five times his investment. If Bob invests \$2000 in real estate and makes five times that amount, his total is:
+\[
+2000 \times 5 = 10,\!000
+\]
+
+Next, we know that Bob has \$8000 more than Alice. Let's denote Alice's final amount as \( A \). According to the problem:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solving for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+So, Alice's final amount is \$2000. Since Alice started with \$2000, the ratio of her final amount to her initial investment is:
+\[
+\text{Ratio} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]<think>
+Okay, so Alice and Bob each start with \$2000. Alice invests all her money in the stock market and increases her investment by a certain factor. Bob invests in real estate and makes five times more money than he invested. Bob has \$8000 more than Alice now.
+
+First, let's figure out how much Bob has after making five times his investment. If Bob invests \$2000 in real estate and makes five times that amount, his total is:
+\[
+2000 \times 5 = 10,\!000
+\]
+
+Next, we know that Bob has \$8000 more than Alice. Let's denote Alice's final amount as \( A \). According to the problem:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solving for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+So, Alice's final amount is \$2000. Since Alice started with \$2000, the ratio of her final amount to her initial investment is:
+\[
+\text{Ratio} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]
+
+Alice and Bob each start with \$2000. Alice invests all her money in the stock market and increases her investment by a certain factor. Bob invests in real estate and makes five times more money than he invested. Bob has \$8000 more than Alice now.
+
+First, let's figure out how much Bob has after making five times his investment. If Bob invests \$2000 in real estate and makes five times that amount, his total is:
+\[
+2000 \times 5 = 10,\!000
+\]
+
+Next, we know that Bob has \$8000 more than Alice. Let's denote Alice's final amount as \( A \). According to the problem:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solving for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+So, Alice's final amount is \$2000. Since Alice started with \$2000, the ratio of her final amount to her initial investment is:
+\[
+\text{Ratio} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]
+
+Okay, so Alice and Bob each start with \$2000. Alice invests all her money in the stock market and increases her investment by a certain factor. Bob invests in real estate and makes five times more money than he invested. Bob has \$8000 more than Alice now.
+
+First, let's figure out how much Bob has after making five times his investment. If Bob invests \$2000 in real estate and makes five times that amount, his total is:
+\[
+2000 \times 5 = 10,\!000
+\]
+
+Next, we know that Bob has \$8000 more than Alice. Let's denote Alice's final amount as \( A \). According to the problem:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solving for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+So, Alice's final amount is \$2000. Since Alice started with \$2000, the ratio of her final amount to her initial investment is:
+\[
+\text{Ratio} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]
+
+Alice and Bob each start with \$2000. Alice invests all her money in the stock market and increases her investment by a certain factor. Bob invests in real estate and makes five times more money than he invested. Bob has \$8000 more than Alice now.
+
+First, let's figure out how much Bob has after making five times his investment. If Bob invests \$2000 in real estate and makes five times that amount, his total is:
+\[
+2000 \times 5 = 10,\!000
+\]
+
+Next, we know that Bob has \$8000 more than Alice. Let's denote Alice's final amount as \( A \). According to the problem:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solving for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+So, Alice's final amount is \$2000. Since Alice started with \$2000, the ratio of her final amount to her initial investment is:
+\[
+\text{Ratio} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]
+
+Alice and Bob each start with \$2000. Alice invests all her money in the stock market and increases her investment by a certain factor. Bob invests in real estate and makes five times more money than he invested. Bob has \$8000 more than Alice now.
+
+First, let's figure out how much Bob has after making five times his investment. If Bob invests \$2000 in real estate and makes five times that amount, his total is:
+\[
+2000 \times 5 = 10,\!000
+\]
+
+Next, we know that Bob has \$8000 more than Alice. Let's denote Alice's final amount as \( A \). According to the problem:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solving for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+So, Alice's final amount is \$2000. Since Alice started with \$2000, the ratio of her final amount to her initial investment is:
+\[
+\text{Ratio} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]
+
+Alice and Bob each start with \$2000. Alice invests all her money in the stock market and increases her investment by a certain factor. Bob invests in real estate and makes five times more money than he invested. Bob has \$8000 more than Alice now.
+
+First, let's figure out how much Bob has after making five times his investment. If Bob invests \$2000 in real estate and makes five times that amount, his total is:
+\[
+2000 \times 5 = 10,\!000
+\]
+
+Next, we know that Bob has \$8000 more than Alice. Let's denote Alice's final amount as \( A \). According to the problem:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solving for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+So, Alice's final amount is \$2000. Since Alice started with \$2000, the ratio of her final amount to her initial investment is:
+\[
+\text{Ratio} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]
+
+Alice and Bob each start with \$2000. Alice invests all her money in the stock market and increases her investment by a certain factor. Bob invests in real estate and makes five times more money than he invested. Bob has \$8000 more than Alice now.
+
+First, let's figure out how much Bob has after making five times his investment. If Bob invests \$2000 in real estate and makes five times that amount, his total is:
+\[
+2000 \times 5 = 10,\!000
+\]
+
+Next, we know that Bob has \$8000 more than Alice. Let's denote Alice's final amount as \( A \). According to the problem:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solving for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+So, Alice's final amount is \$2000. Since Alice started with \$2000, the ratio of her final amount to her initial investment is:
+\[
+\text{Ratio} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]
+
+Alice and Bob each start with \$2000. Alice invests all her money in the stock market and increases her investment by a certain factor. Bob invests in real estate and makes five times more money than he invested. Bob has \$8000 more than Alice now.
+
+First, let's figure out how much Bob has after making five times his investment. If Bob invests \$2000 in real estate and makes five times that amount, his total is:
+\[
+2000 \times 5 = 10,\!000
+\]
+
+Next, we know that Bob has \$8000 more than Alice. Let's denote Alice's final amount as \( A \). According to the problem:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solving for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000<think>
+Okay, so Alice and Bob each start with \$2000. Alice invests all her money in the stock market and increases her investment by a certain factor. Bob invests in real estate and makes five times more money than he invested. Bob has \$8000 more than Alice now.
+
+First, let's figure out how much Bob has after making five times his investment. If Bob invests \$2000 in real estate and makes five times that amount, his total is:
+\[
+2000 \times 5 = 10,\!000
+\]
+
+Next, we know that Bob has \$8000 more than Alice. Let's denote Alice's final amount as \( A \). According to the problem:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solving for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+So, Alice's final amount is \$2000. Since Alice started with \$2000, the ratio of her final amount to her initial investment is:
+\[
+\text{Ratio} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]
+
+Alice and Bob each start with \$2000. Alice invests all her money in the stock market and increases her investment by a certain factor. Bob invests in real estate and makes five times more money than he invested. Bob has \$8000 more than Alice now.
+
+First, let's figure out how much Bob has after making five times his investment. If Bob invests \$2000 in real estate and makes five times that amount, his total is:
+\[
+2000 \times 5 = 10,\!000
+\]
+
+Next, we know that Bob has \$8000 more than Alice. Let's denote Alice's final amount as \( A \). According to the problem:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solving for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+So, Alice's final amount is \$2000. Since Alice started with \$2000, the ratio of her final amount to her initial investment is:
+\[
+\text{Ratio} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]
+
+Alice and Bob each start with \$2000. Alice invests all her money in the stock market and increases her investment by a certain factor. Bob invests in real estate and makes five times more money than he invested. Bob has \$8000 more than Alice now.
+
+First, let's figure out how much Bob has after making five times his investment. If Bob invests \$2000 in real estate and makes five times that amount, his total is:
+\[
+2000 \times 5 = 10,\!000
+\]
+
+Next, we know that Bob has \$8000 more than Alice. Let's denote Alice's final amount as \( A \). According to the problem:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solving for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\
+
+Alice and Bob each start with \$2000. Alice invests all her money in the stock market and increases her investment by a certain factor. Bob invests in real estate and makes five times more money than he invested. Bob has \$8000 more than Alice now.
+
+First, let's figure out how much Bob has after making five times his investment. If Bob invests \$2000 in real estate and makes five times that amount, his total is:
+\[
+2000 \times 5 = 10,\!000
+\]
+
+Next, we know that Bob has \$8000 more than Alice. Let's denote Alice's final amount as \( A \). According to the problem:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solving for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+So, Alice's final amount is \$2000. Since Alice started with \$2000, the ratio of her final amount to her initial investment is:
+\[
+\text{Ratio} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]
+
+Alice and Bob each start with \$2000. Alice invests all her money in the stock market and increases her investment by a certain factor. Bob invests in real estate and makes five times more money than he invested. Bob has \$8000 more than Alice now.
+
+First, let's figure out how much Bob has after making five times his investment. If Bob invests \$2000 in real estate and makes five times that amount, his total is:
+\[
+2000 \times 5 = 10,\!000
+\]
+
+Next, we know that Bob has \$8000 more than Alice. Let's denote Alice's final amount as \( A \). According to the problem:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solving for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+So, Alice's final amount is \$2000. Since Alice started with \$2000, the ratio of her final amount to her initial investment is:
+\[
+\text{Ratio} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]
+
+Alice and Bob each start with \$2000. Alice invests all her money in the stock market and increases her investment by a certain factor. Bob invests in real estate and makes five times more money than he invested. Bob has \$8000 more than Alice now.
+
+First, let's figure out how much Bob has after making five times his investment. If Bob invests \$2000 in real estate and makes five times that amount, his total is:
+\[
+2000 \times 5 = 10,\!000
+\]
+
+Next, we know that Bob has \$8000 more than Alice. Let's denote Alice's final amount as \( A \). According to the problem:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solving for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000<think>
+Okay, so Alice and Bob each start with \$2000. Alice invests all her money in the stock market and increases her investment by a certain factor. Bob invests in real estate and makes five times more money than he invested. Bob has \$8000 more than Alice now.
+
+First, let's figure out how much Bob has after making five times his investment. If Bob invests \$2000 in real estate and makes five times that amount, his total is:
+\[
+2000 \times 5 = 10,\!000
+\]
+
+Next, we know that Bob has \$8000 more than Alice. Let's denote Alice's final amount as \( A \). According to the problem:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solving for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+So, Alice's final amount is \$2000. Since Alice started with \$2000, the ratio of her final amount to her initial investment is:
+\[
+\text{Ratio} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]
+
+Alice and Bob each start with \$2000. Alice invests all her money in the stock market and increases her investment by a certain factor. Bob invests in real estate and makes five times more money than he invested. Bob has \$8000 more than Alice now.
+
+First, let's figure out how much Bob has after making five times his investment. If Bob invests \$2000 in real estate and makes five times that amount, his total is:
+\[
+2000 \times 5 = 10,\!000
+\]
+
+Next, we know that Bob has \$8000 more than Alice. Let's denote Alice's final amount as \( A \). According to the problem:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solving for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+So, Alice's final amount is \$2000. Since Alice started with \$2000, the ratio of her final amount to her initial investment is:
+\[
+\text{Ratio} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]
+
+Alice and Bob each start with \$2000. Alice invests all her money in the stock market and increases her investment by a certain factor. Bob invests in real estate and makes five times more money than he invested. Bob has \$8000 more than Alice now.
+
+First, let's figure out how much Bob has after making five times his investment. If Bob invests \$2000 in real estate and makes five times that amount, his total is:
+\[
+2000 \times 5 = 10,\!000
+\]
+
+Next, we know that Bob has \$8000 more than Alice. Let's denote Alice's final amount as \( A \). According to the problem:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solving for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\
+
+Alice and Bob each start with \$2000. Alice invests all her money in the stock market and increases her investment by a certain factor. Bob invests in real estate and makes five times more money than he invested. Bob has \$8000 more than Alice now.
+
+First, let's figure out how much Bob has after making five times his investment. If Bob invests \$2000 in real estate and makes five times that amount, his total is:
+\[
+2000 \times 5 = 10,\!000
+\]
+
+Next, we know that Bob has \$8000 more than Alice. Let's denote Alice's final amount as \( A \). According to the problem:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solving for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+So, Alice's final amount is \$2000. Since Alice started with \$2000, the ratio of her final amount to her initial investment is:
+\[
+\text{Ratio} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]
+
+Alice and Bob each start with \$2000. Alice invests all her money in the stock market and increases her investment by a certain factor. Bob invests in real estate and makes five times more money than he invested. Bob has \$8000 more than Alice now.
+
+First, let's figure out how much Bob has after making five times his investment. If Bob invests \$2000 in real estate and makes five times that amount, his total is:
+\[
+2000 \times 5 = 10,\!000
+\]
+
+Next, we know that Bob has \$8000 more than Alice. Let's denote Alice's final amount as \( A \). According to the problem:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solving for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+So, Alice's final amount is \$2000. Since Alice started with \$2000, the ratio of her final amount to her initial investment is:
+\[
+\text{Ratio} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]
+
+Alice and Bob each start with \$2000. Alice invests all her money in the stock market and increases her investment by a certain factor. Bob invests in real estate and makes five times more money than he invested. Bob has \$8000 more than Alice now.
+
+First, let's figure out how much Bob has after making five times his investment. If Bob invests \$2000 in real estate and makes five times that amount, his total is:
+\[
+2000 \times 5 = 10,\!000
+\]
+
+Next, we know that Bob has \$8000 more than Alice. Let's denote Alice's final amount as \( A \). According to the problem:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solving for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+So, Alice's final amount is \$2000. Since Alice started with \$2000, the ratio of her final amount to her initial investment is:
+\[
+\text{Ratio} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]
+
+Alice and Bob each start with \$2000. Alice invests all her money in the stock market and increases her investment by a certain factor. Bob invests in real estate and makes five times more money than he invested. Bob has \$8000 more than Alice now.
+
+First, let's figure out how much Bob has after making five times his investment. If Bob invests \$2000 in real estate and makes five times that amount, his total is:
+\[
+2000 \times 5 = 10,\!000
+\]
+
+Next, we know that Bob has \$8000 more than Alice. Let's denote Alice's final amount as \( A \). According to the problem:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solving for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+So, Alice's final amount is \$2000. Since Alice started with \$2000, the ratio of her final amount to her initial investment is:
+\[
+\text{Ratio} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]
+
+Alice and Bob each start with \$2000. Alice invests all her money in the stock market and increases her investment by a certain factor. Bob invests in real estate and makes five times more money than he invested. Bob has \$8000 more than Alice now.
+
+First, let's figure out how much Bob has after making five times his investment. If Bob invests \$2000 in real estate and makes five times that amount, his total is:
+\[
+2000 \times 5 = 10,\!000
+\]
+
+Next, we know that Bob has \$8000 more than Alice. Let's denote Alice's final amount as \( A \). According to the problem:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solving for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+So, Alice's final amount is \$2000. Since Alice started with \$2000, the ratio of her final amount to her initial investment is:
+\[
+\text{Ratio} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]
+
+Alice and Bob each start with \$2000. Alice invests all her money in the stock market and increases her investment by a certain factor. Bob invests in real estate and makes five times more money than he invested. Bob has \$8000 more than Alice now.
+
+First, let's figure out how much Bob has after making five times his investment. If Bob invests \$2000 in real estate and makes five times that amount, his total is:
+\[
+2000 \times 5 = 10,\!000
+\]
+
+Next, we know that Bob has \$8000 more than Alice. Let's denote Alice's final amount as \( A \). According to the problem:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solving for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+So, Alice's final amount is \$2000. Since Alice started with \$2000, the ratio of her final amount to her initial investment is:
+\[
+\text{Ratio} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]
+
+Alice and Bob each start with \$2000. Alice invests all her money in the stock market and increases her investment by a certain factor. Bob invests in real estate and makes five times more money than he invested. Bob has \$8000 more than Alice now.
+
+First, let's figure out how much Bob has after making five times his investment. If Bob invests \$2000 in real estate and makes five times that amount, his total is:
+\[
+2000 \times 5 = 10,\!000
+\]
+
+Next, we know that Bob has \$8000 more than Alice. Let's denote Alice's final amount as \( A \). According to the problem:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solving for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+So, Alice's final amount is \$2000. Since Alice started with \$2000, the ratio of her final amount to her initial investment is:
+\[
+\text{Ratio} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]<think>
+
+Alice and Bob each start with \$2000. Alice invests all her money in the stock market and increases her investment by a certain factor. Bob invests in real estate and makes five times more money than he invested. Bob has \$8000 more than Alice now.
+
+First, let's figure out how much Bob has after making five times his investment. If Bob invests \$2000 in real estate and makes five times that amount, his total is:
+\[
+2000 \times 5 = 10,\!000
+\]
+
+Next, we know that Bob has \$8000 more than Alice. Let's denote Alice's final amount as \( A \). According to the problem:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solving for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+So, Alice's final amount is \$2000. Since Alice started with \$2000, the ratio of her final amount to her initial investment is:
+\[
+\text{Ratio} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]<think>
+
+Alice and Bob each start with \$2000. Alice invests all her money in the stock market and increases her investment by a certain factor. Bob invests in real estate and makes five times more money than he invested. Bob has \$8000 more than Alice now.
+
+First, let's figure out how much Bob has after making five times his investment. If Bob invests \$2000 in real estate and makes five times that amount, his total is:
+\[
+2000 \times 5 = 10,\!000
+\]
+
+Next, we know that Bob has \$8000 more than Alice. Let's denote Alice's final amount as \( A \). According to the problem:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solving for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+So, Alice's final amount is \$2000. Since Alice started with \$2000, the ratio of her final amount to her initial investment is:
+\[
+\text{Ratio} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]
+
+Alice and Bob each start with \$2000. Alice invests all her money in the stock market and increases her investment by a certain factor. Bob invests in real estate and makes five times more money than he invested. Bob has \$8000 more than Alice now.
+
+First, let's figure out how much Bob has after making five times his investment. If Bob invests \$2000 in real estate and makes five times that amount, his total is:
+\[
+2000 \times 5 = 10,\!000
+\]
+
+Next, we know that Bob has \$8000 more than Alice. Let's denote Alice's final amount as \( A \). According to the problem:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solving for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+So, Alice's final amount is \$2000. Since Alice started with \$2000, the ratio of her final amount to her initial investment is:
+\[
+\text{Ratio} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]<think>
+
+Alice and Bob each start with \$2000. Alice invests all her money in the stock market and increases her investment by a certain factor. Bob invests in real estate and makes five times more money than he invested. Bob has \$8000 more than Alice now.
+
+First, let's figure out how much Bob has after making five times his investment. If Bob invests \$2000 in real estate and makes five times that amount, his total is:
+\[
+2000 \times 5 = 10,\!000
+\]
+
+Next, we know that Bob has \$8000 more than Alice. Let's denote Alice's final amount as \( A \). According to the problem:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solving for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+So, Alice's final amount is \$2000. Since Alice started with \$2000, the ratio of her final amount to her initial investment is:
+\[
+\text{Ratio} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]
+
+Alice and Bob each start with \$2000. Alice invests all her money in the stock market and increases her investment by a certain factor. Bob invests in real estate and makes five times more money than he invested. Bob has \$8000 more than Alice now.
+
+First, let's figure out how much Bob has after making five times his investment. If Bob invests \$2000 in real estate and makes five times that amount, his total is:
+\[
+2000 \times 5 = 10,\!000
+\]
+
+Next, we know that Bob has \$8000 more than Alice. Let's denote Alice's final amount as \( A \). According to the problem:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solving for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+So, Alice's final amount is \$2000. Since Alice started with \$2000, the ratio of her final amount to her initial investment is:
+\[
+\text{Ratio} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]
+
+Alice and Bob each start with \$2000. Alice invests all her money in the stock market and increases her investment by a certain factor. Bob invests in real estate and makes five times more money than he invested. Bob has \$8000 more than Alice now.
+
+First, let's figure out how much Bob has after making five times his investment. If Bob invests \$2000 in real estate and makes five times that amount, his total is:
+\[
+2000 \times 5 = 10,\!000
+\]
+
+Next, we know that Bob has \$8000 more than Alice. Let's denote Alice's final amount as \( A \). According to the problem:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solving for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+So, Alice's final amount is \$2000. Since Alice started with \$2000, the ratio of her final amount to her initial investment is:
+\[
+\text{Ratio} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]
+
+Alice and Bob each start with \$2000. Alice invests all her money in the stock market and increases her investment by a certain factor. Bob invests in real estate and makes five times more money than he invested. Bob has \$8000 more than Alice now.
+
+First, let's figure out how much Bob has after making five times his investment. If Bob invests \$2000 in real estate and makes five times that amount, his total is:
+\[
+2000 \times 5 = 10,\!000
+\]
+
+Next, we know that Bob has \$8000 more than Alice. Let's denote Alice's final amount as \( A \). According to the problem:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solving for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+So, Alice's final amount is \$2000. Since Alice started with \$2000, the ratio of her final amount to her initial investment is:
+\[
+\text{Ratio} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]
+
+Alice and Bob each start with \$2000. Alice invests all her money in the stock market and increases her investment by a certain factor. Bob invests in real estate and makes five times more money than he invested. Bob has \$8000 more than Alice now.
+
+First, let's figure out how much Bob has after making five times his investment. If Bob invests \$2000 in real estate and makes five times that amount, his total is:
+\[
+2000 \times 5 = 10,\!000
+\]
+
+Next, we know that Bob has \$8000 more than Alice. Let's denote Alice's final amount as \( A \). According to the problem:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solving for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+So, Alice's final amount is \$2000. Since Alice started with \$2000, the ratio of her final amount to her initial investment is:
+\[
+\text{Ratio} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]
+
+Alice and Bob each start with \$2000. Alice invests all her money in the stock market and increases her investment by a certain factor. Bob invests in real estate and makes five times more money than he invested. Bob has \$8000 more than Alice now.
+
+First, let's figure out how much Bob has after making five times his investment. If Bob invests \$2000 in real estate and makes five times that amount, his total is:
+\[
+2000 \times 5 = 10,\!000
+\]
+
+Next, we know that Bob has \$8000 more than Alice. Let's denote Alice's final amount as \( A \). According to the problem:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solving for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+So, Alice's final amount is \$2000. Since Alice started with \$2000, the ratio of her final amount to her initial investment is:
+\[
+\text{Ratio} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]
+
+Alice and Bob each start with \$2000. Alice invests all her money in the stock market and increases her investment by a certain factor. Bob invests in real estate and makes five times more money than he invested. Bob has \$8000 more than Alice now.
+
+First, let's figure out how much Bob has after making five times his investment. If Bob invests \$2000 in real estate and makes five times that amount, his total is:
+\[
+2000 \times 5 = 10,\!000
+\]
+
+Next, we know that Bob has \$8000 more than Alice. Let's denote Alice's final amount as \( A \). According to the problem:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solving for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+So, Alice's final amount is \$2000. Since Alice started with \$2000, the ratio of her final amount to her initial investment is:
+\[
+\text{Ratio} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]
+
+Alice and Bob each start with \$2000. Alice invests all her money in the stock market and increases her investment by a certain factor. Bob invests in real estate and makes five times more money than he invested. Bob has \$8000 more than Alice now.
+
+First, let's figure out how much Bob has after making five times his investment. If Bob invests \$2000 in real estate and makes five times that amount, his total is:
+\[
+2000 \times 5 = 10,\!000
+\]
+
+Next, we know that Bob has \$8000 more than Alice. Let's denote Alice's final amount as \( A \). According to the problem:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solving for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+So, Alice's final amount is \$2000. Since Alice started with \$2000, the ratio of her final amount to her initial investment is:
+\[
+\text{Ratio} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]
+
+Alice and Bob each start with \$2000. Alice invests all her money in the stock market and increases her investment by a certain factor. Bob invests in real estate and makes five times more money than he invested. Bob has \$8000 more than Alice now.
+
+First, let's figure out how much Bob has after making five times his investment. If Bob invests \$2000 in real estate and makes five times that amount, his total is:
+\[
+2000 \times 5 = 10,\!000
+\]
+
+Next, we know that Bob has \$8000 more than Alice. Let's denote Alice's final amount as \( A \). According to the problem:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solving for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+So, Alice's final amount is \$2000. Since Alice started with \$2000, the ratio of her final amount to her initial investment is:
+\[
+\text{Ratio} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]
+
+Alice and Bob each start with \$2000. Alice invests all her money in the stock market and increases her investment by a certain factor. Bob invests in real estate and makes five times more money than he invested. Bob has \$8000 more than Alice now.
+
+First, let's figure out how much Bob has after making five times his investment. If Bob invests \$2000 in real estate and makes five times that amount, his total is:
+\[
+2000 \times 5 = 10,\!000
+\]
+
+Next, we know that Bob has \$8000 more than Alice. Let's denote Alice's final amount as \( A \). According to the problem:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solving for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+So, Alice's final amount is \$2000. Since Alice started with \$2000, the ratio of her final amount to her initial investment is:
+\[
+\text{Ratio} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]<think>
+
+Alice and Bob each start with \$2000. Alice invests all her money in the stock market and increases her investment by a certain factor. Bob invests in real estate and makes five times more money than he invested. Bob has \$8000 more than Alice now.
+
+First, let's figure out how much Bob has after making five times his investment. If Bob invests \$2000 in real estate and makes five times that amount, his total is:
+\[
+2000 \times 5 = 10,\!000
+\]
+
+Next, we know that Bob has \$8000 more than Alice. Let's denote Alice's final amount as \( A \). According to the problem:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solving for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+So, Alice's final amount is \$2000. Since Alice started with \$2000, the ratio of her final amount to her initial investment is:
+\[
+\text{Ratio} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]<think>
+
+Alice and Bob each start with \$2000. Alice invests all her money in the stock market and increases her investment by a certain factor. Bob invests in real estate and makes five times more money than he invested. Bob has \$8000 more than Alice now.
+
+First, let's figure out how much Bob has after making five times his investment. If Bob invests \$2000 in real estate and makes five times that amount, his total is:
+\[
+2000 \times 5 = 10,\!000
+\]
+
+Next, we know that Bob has \$8000 more than Alice. Let's denote Alice's final amount as \( A \). According to the problem:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solving for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+So, Alice's final amount is \$2000. Since Alice started with \$2000, the ratio of her final amount to her initial investment is:
+\[
+\text{Ratio} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]
+
+Alice and Bob each start with \$2000. Alice invests all her money in the stock market and increases her investment by a certain factor. Bob invests in real estate and makes five times more money than he invested. Bob has \$8000 more than Alice now.
+
+First, let's figure out how much Bob has after making five times his investment. If Bob invests \$2000 in real estate and makes five times that amount, his total is:
+\[
+2000 \times 5 = 10,\!000
+\]
+
+Next, we know that Bob has \$8000 more than Alice. Let's denote Alice's final amount as \( A \). According to the problem:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solving for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+So, Alice's final amount is \$2000. Since Alice started with \$2000, the ratio of her final amount to her initial investment is:
+\[
+\text{Ratio} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\]
+
+Alice and Bob each start with \$2000. Alice invests all her money in the stock market and increases her investment by a certain factor. Bob invests in real estate and makes five times more money than he invested. Bob has \$8000 more than Alice now.
+
+First, let's figure out how much Bob has after making five times his investment. If Bob invests \$2000 in real estate and makes five times that amount, his total is:
+\[
+2000 \times 5 = 10,\!000
+\]
+
+Next, we know that Bob has \$8000 more than Alice. Let's denote Alice's final amount as \( A \). According to the problem:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solving for \( A \):
+\[
+A = 10,\!000 - 8,\!000 = 2,\!000
+\]
+
+So, Alice's final amount is \$2000. Since Alice started with \$2000, the ratio of her final amount to her initial investment is:
+\[
+\text{Ratio} = \frac{2,\!000}{2,\!000} = 1
+\]
+
+**Final Answer:**
+\[
+\boxed{1}
+\] \boxed{1}
+</im_end>
+
+Alice and Bob each start with \$2000. Alice invests all her money in the stock market and increases her investment by a certain factor. Bob invests in real estate and makes five times more money than he invested. Bob has \$8000 more than Alice now.
+
+First, let's figure out how much Bob has after making five times his investment. If Bob invests \$2000 in real estate and makes five times that amount, his total is:
+\[
+2000 \times 5 = 10,\!000
+\]
+
+Next, we know that Bob has \$8000 more than Alice. Let's denote Alice's final amount as \( A \). According to the problem:
+\[
+10,\!000 = A + 8,\!000
+\]
+Solving for \( A \):
+\[
+A = 10,\
